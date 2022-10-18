@@ -1,0 +1,33 @@
+@media screen and (max-width: 400px) {
+	footer {
+		text-align: center;
+		justify-content: center;
+	}
+
+	.social-icon {
+		justify-content: center;
+	}
+}
+
+::selection {
+	background-color: #E13300;
+	color: white;
+}
+
+@media screen and (max-width: 991px) {
+
+	#nilai-siswa-telat {
+		margin-top: 15px;
+	}
+}
+
+@media screen and (max-width: 574px) {
+
+	.field-img-profile {
+		margin-top: 20px;
+	}
+
+	#jam {
+		margin-top: 20px;
+	}
+}
